@@ -1,0 +1,6 @@
+#Items
+item.ingot_copper.name=Copper Ingot
+item.platinum_ingot.name=Platinum Ingot
+
+#Tabs
+itemGroup.miraculous=Miraculous Tab
